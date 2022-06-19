@@ -4,7 +4,8 @@
 # ## Variables
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
-
+mi_varible = 369
+print(mi_variable)
 # In[7]:
 
 
